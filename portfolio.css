@@ -1,0 +1,41 @@
+body {
+	background: teal;
+	color: black;
+}
+#header {
+	background: skyblue;
+	height: 200px;
+	width: 900px;
+    font-size: 55pt;
+}
+
+#navigation {
+	background: azure;
+	width: 900px;
+	height: 20px;
+	font-size: 12pt;
+}
+
+#menu {
+	background: powderblue;
+	float: left;
+	width: 200px;
+	height: 624px;
+	font-size: 20pt;
+}
+#menu2 {font-size: 36pt;}
+ 
+#content {
+	background: turquoise;	
+	width: 900px;
+	height: 624px;
+	font-size: 36pt;
+}
+#content2 {font-size: 36pt;}
+
+#footer {
+	background: azure;
+	height: 180px;
+	width: 900px;
+	font-size: 16pt;
+}
