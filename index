@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Rebecca's Portfolio</title>
+    </head>
+    <body>
+        <div id="wrapper">
+        <div id="header"> Rebecca's Portfolio <img src="http://www.warrenphotographic.co.uk/photography/bigs/33833-Border-Collie-puppies-6-weeks-old-white-background.jpg" alt="puppies" style="height: 195px"> 
+        </div><!--Navigation-->
+        <div id="navigation"> 
+        </div>
+        <div id="menu"><p id="menu2">Menu</p>
+            <ul>
+                <li><a href=“truths.html”>2 Truths</a></li>
+                <li><a href="classesids.html">Classes & Ids</a></li>
+            </ul>
+        </div><!--Menu-->
+        <div id="content">Content
+         <img src="http://www.warrenphotographic.co.uk/photography/bigs/16338-Sleepy-Border-Collie-pups-and-ginger-kitten-white-background.jpg" style="height: 359px"> 
+        <img src="https://s-media-cache-ak0.pinimg.com/736x/08/2b/8b/082b8b2f41a4c9532e4a1ce7b9ee2b7d--aussie-shepherd-australian-shepherd-puppy.jpg" alt="puppies" style="height: 195px"> 
+        <img src="https://s-media-cache-ak0.pinimg.com/736x/bb/78/48/bb7848958fa430761d5298171bab562d.jpg" style="height: 195px">
+        <img src="http://www.warrenphotographic.co.uk/photography/bigs/32633-Blue-point-kitten-and-black-and-white-Border-Collie-puppy-white-background.jpg" style="height: 195px"> 
+         
+        </div><!--Content-->
+        <div id="footer"> 
+        </div><!--Footer-->
+        </div>
+    </body>
+</html>
